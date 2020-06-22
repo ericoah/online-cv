@@ -58,15 +58,14 @@ career-profile:
       Engenheiro químico, com mestrado em Física, pela Univ. Federal do Ceará. Desde 2003 trabalhando na BR Distribuidora, com logística, qualidade e comercialização de combustíveis.
       
 education:
-    title: Educação
-    - degree: MSc in Física
+    - degree: MSc em Física
       university: Universidade Federal do Ceará
       time: 2001 - 2003
       details: |
         Estudo de transferência de calor em supefícies complexas utilizando software de simulação computacional de fluidos (FLUENT) no departamento de Física da Universidade.
           - Mestre em Física da Matéria Condensada
           - Estudo aplicado em transferência de calor 
-    - degree: BSc Engenharia Química
+    - degree: BSc em Engenharia Química
       university: Universidade Federal do Ceará
       time: 1995 - 2000
       details: |
@@ -74,7 +73,6 @@ education:
           - Bolsa de iniciação científica (CAPES)
           - Bolsa Graduação Sanduíche (CAPES/DAAD) 
 experiences:
-    title: Experiência
     - role: Gestor em Qualidade de Produto
       time: 2019 - Present
       company: BR Distribuidora, Rio de Janeiro/RJ
@@ -91,16 +89,9 @@ experiences:
           - Responsabilidade pelo planejamento de demanda (elaboração de pedidos aos fornecedores) e transporte (contratação e fiscalização). 
 publications:
     title: Publicações
-    Dissertação de mestrado: |
-      - Transporte de calor em dutos rugosos. 2003. 
-      - Título: Transporte de Calor em Dutos Rugosos
-      - Data da defesa: 07/03/2003
-      - Orientador: Andrade Júnior, José Soares de
-      - Banca Examinadora:
-        José Soares de Andrade Júnior – UFC
-        Murilo Pereira de Almeida – UFC
-        Roberto Fernandes Silva Andrade – UFBA
-      
+    intro: |
+    Dissertação de mestrado: Transporte de calor em dutos rugosos. 07/03/2003. Orientador: Andrade Júnior, José Soares de
+ 
     papers:
       - title: Transporte de calor em dutos rugosos.
 
