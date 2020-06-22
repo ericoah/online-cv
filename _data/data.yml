@@ -25,7 +25,7 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    línguas:
+    languages:
       - idiom: Português
         level: Nativo
         
@@ -42,7 +42,7 @@ sidebar:
         level: Básico
         
 
-    Interessses:
+    interests:
       - item: Linux
         link:
 
@@ -51,13 +51,13 @@ sidebar:
 
       - item: Python
         link:
-
-Perfil de carreira:
+        
+career-profile:
     title: Perfil de Carreira
     summary: |
       Engenheiro químico, com mestrado em Física, pela Univ. Federal do Ceará. Desde 2003 trabalhando na BR Distribuidora, com logística, qualidade e comercialização de combustíveis.
       
-educação:
+education:
     - degree: MSc in Física
       university: Universidade Federal do Ceará
       time: 2001 - 2003
@@ -72,7 +72,7 @@ educação:
         Graduação em Engenharia Química, com um ano de estudos no exterior (Hamburgo/Alemanha).
           - Bolsa de iniciação científica (CAPES)
           - Bolsa Graduação Sanduíche (CAPES/DAAD) 
-experiências:
+experiences:
     - role: Gestor em Qualidade de Produto
       time: 2019 - Present
       company: BR Distribuidora, Rio de Janeiro/RJ
@@ -87,7 +87,7 @@ experiências:
         Papel de gestão de equipe de planejamento de logística na gerencia de operações e comercialização de asfaltos.
           - Coordenador, posteriormente promovido a Gerente
           - Responsabilidade pelo planejamento de demanda (elaboração de pedidos aos fornecedores) e transporte (contratação e fiscalização). 
-publicações:
+publications:
     title: Publicações
     Dissertação de mestrado: |
       - Transporte de calor em dutos rugosos. 2003. 
@@ -102,7 +102,7 @@ publicações:
     papers:
       - title: Transporte de calor em dutos rugosos.
 
-habilidades:
+skills:
     title: Habilidades
 
     toolset:
