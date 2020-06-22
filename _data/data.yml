@@ -58,6 +58,7 @@ career-profile:
       Engenheiro químico, com mestrado em Física, pela Univ. Federal do Ceará. Desde 2003 trabalhando na BR Distribuidora, com logística, qualidade e comercialização de combustíveis.
       
 education:
+    title: Educação
     - degree: MSc in Física
       university: Universidade Federal do Ceará
       time: 2001 - 2003
@@ -73,6 +74,7 @@ education:
           - Bolsa de iniciação científica (CAPES)
           - Bolsa Graduação Sanduíche (CAPES/DAAD) 
 experiences:
+    title: Experiência
     - role: Gestor em Qualidade de Produto
       time: 2019 - Present
       company: BR Distribuidora, Rio de Janeiro/RJ
